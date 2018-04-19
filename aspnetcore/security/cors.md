@@ -33,7 +33,7 @@ Essas duas URLs têm a mesma origem:
 
 * `http://example.com/bar.html`
 
-Essas URLs têm diferentes origens que anterior dois:
+Essas URLs têm diferentes origens que as duas anteriores:
 
 * `http://example.net` -Domínio diferente
 
